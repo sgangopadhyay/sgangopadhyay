@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Suman Ganopadhyay ! 👋
 
-Welcome to my GitHub portfolio. I'm a [Your Role, e.g., Software Developer, Data Scientist, etc.] with a passion for coding and creating impactful projects. Here you'll find a collection of my work, projects, and contributions.
+Welcome to my GitHub portfolio. I'm a Senior Mentor @ GUVI with a passion for Python coding and creating impactful automation projects. Here you'll find a collection of my work, projects, and contributions.
 
 <img src="https://your-image-url" alt="Your Name" width="200"/>
 
